@@ -1,0 +1,27 @@
+/* assets/css/main.css */
+@font-face {
+  font-family: "Newake";
+  src: url("~/public/fonts/Newake.otf") format("otf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SequelSans";
+  src: url("~/public/fonts/Sequel-Sans-Black-Disp.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: "SequelSans", sans-serif;
+}
+
+.title {
+  font-family: "Newake", sans-serif !important;
+  color: #000000;
+  font-style: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,3 @@
+<template>
+  <TeamSection></TeamSection>
+</template>
